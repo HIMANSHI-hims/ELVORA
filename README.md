@@ -238,7 +238,6 @@ This project provides practical experience with:
 ## Team Members
 
 - **Himanshi Srivastava**
-- **Avantika Pratyush**
 
 ## Project Purpose
 
